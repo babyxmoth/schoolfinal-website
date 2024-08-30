@@ -1,0 +1,98 @@
+html {
+	background-color: black;
+}
+
+body {
+	font-family: "Give You Glory", Arial, sans-serif;
+	color: #ff83c0;
+    background-color: black;
+}
+	
+header {
+	background-color: black;
+    color: #ff83c0;
+	text-align: center;
+	font-size: 48px;
+    padding: 0rem;
+}
+
+main h1 {
+	color: #ffe599;
+	text-align: center;
+	border-style: outset;
+	border-color: #DF73A8;
+	border-width: 0.5rem;
+	background-color: #ff8fc6;
+	font-size: 32px;
+}
+main p {
+	font-size: 18px;
+}
+
+nav {
+	font-size: 24px;
+}
+
+nav ul {
+    list-style: fixed;
+    padding: 1rem;
+	text-align: center;
+}
+
+nav ul li {
+	width: 2rem;
+    padding-right: 3rem;
+	padding-left: 3rem;
+	border: outset;
+	border-color: #DFC886;
+	border-width: 0.5rem;
+	display: inline;
+	background-color: #ffe599;
+    margin-right: 1rem;
+	color: #ffe599
+}
+
+nav ul li a {
+    color: #ff83c0;
+}
+
+main {
+    padding: 1rem;
+}
+
+footer {
+    font-size: 10px;
+	background-color: black;
+    color: #ff8fc6;
+    text-align: center;
+    padding: 1rem;
+    width: 100%;
+    bottom: 100%;
+}
+
+form {
+	float: center;
+	padding-top: 2rem;
+	padding-right: 4rem;
+	background-color: #ffe599;
+}
+
+label {
+	padding-left: 3rem;
+	
+}
+
+form input {
+	float: right;
+	margin-bottom: 0.3erm;
+	background-color: lightgray;
+	font-family: "Give You Glory", Arial, sans-serif;
+	border: outset;
+	border-color: #ff8fc6;
+	border-width: 0.3rem;
+}
+img {
+  margin-right: 10px;
+  margin-left: 20px;
+  align: center;
+}
